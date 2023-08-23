@@ -4,21 +4,21 @@
       "name": "Test 1",
       "setup": "",
       "run": "javac voting.java && java voting",
-      "input": "10",
+      "input": "",
       "output": "Not eligible",
       "comparison": "exact",
       "timeout": 10,
-      "points": 10
+      "points": 5
     },
     {
       "name": "Test 2",
       "setup": "",
       "run": "javac voting.java && java voting",
-      "input": "20",
+      "input": "",
       "output": "Eligible",
       "comparison": "exact",
       "timeout": 10,
-      "points": 10
+      "points": 5
     }
   ]
 }
